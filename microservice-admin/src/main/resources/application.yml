@@ -1,1 +1,24 @@
+server:
+  port: 9070
 
+spring:
+  application:
+    name: msvc-admin
+  datasource: #cambiar los datos segun la comfiguracion de docker DB
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/admin
+    username: root
+    password: 961149
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+  config:
+    import: optional:configserver:http//localhost:8888
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
