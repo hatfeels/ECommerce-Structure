@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/microservice-admin/sql-data/
+/microservice-users/sql-data/
+/microservice-products/sql-data/

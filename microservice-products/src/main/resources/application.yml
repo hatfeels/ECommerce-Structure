@@ -6,7 +6,7 @@ spring:
     name: msvc-products
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/products
+    url: jdbc:mysql://localhost:3308/products
     username: root
     password: 961149
   jpa:
