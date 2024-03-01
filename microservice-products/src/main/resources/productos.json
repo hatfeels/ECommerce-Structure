@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Samsung Galaxy S21",
+    "category": "Smartphones",
+    "stock": 15,
+    "price": 899,
+    "description": "Potente smartphone con cámara de alta resolución y pantalla AMOLED."
+  },
+  {
+    "name": "Apple AirPods Pro",
+    "category": "Audio",
+    "stock": 8,
+    "price": 249,
+    "description": "Auriculares inalámbricos con cancelación activa de ruido para una experiencia de sonido inmersiva."
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "category": "Videojuegos",
+    "stock": 12,
+    "price": 499,
+    "description": "Consola de última generación con gráficos impresionantes y tiempos de carga ultrarrápidos."
+  },
+  {
+    "name": "Canon EOS R5",
+    "category": "Cámaras",
+    "stock": 5,
+    "price": 3899,
+    "description": "Cámara mirrorless de alta gama con capacidad para grabación de video en 8K."
+  },
+  {
+    "name": "Dell XPS 13",
+    "category": "Laptops",
+    "stock": 10,
+    "price": 1299,
+    "description": "Portátil ultradelgado con pantalla InfinityEdge y potente rendimiento."
+  },
+  {
+    "name": "Nike Air Max 270",
+    "category": "Calzado",
+    "stock": 20,
+    "price": 150,
+    "description": "Zapatillas deportivas con unidad Air para una amortiguación ligera y máxima comodidad."
+  },
+  {
+    "name": "Samsung 4K QLED TV",
+    "category": "Electrónica",
+    "stock": 6,
+    "price": 1799,
+    "description": "Televisor con tecnología Quantum Dot para colores vivos y contraste profundo."
+  },
+  {
+    "name": "KitchenAid Artisan Stand Mixer",
+    "category": "Electrodomésticos",
+    "stock": 4,
+    "price": 399,
+    "description": "Batidora de pie con diseño elegante y potente motor para mezclar con facilidad."
+  },
+  {
+    "name": "GoPro HERO9 Black",
+    "category": "Cámaras de Acción",
+    "stock": 7,
+    "price": 449,
+    "description": "Cámara de acción resistente al agua con video de alta resolución y estabilización avanzada."
+  },
+  {
+    "name": "Apple iPad Air",
+    "category": "Tablets",
+    "stock": 18,
+    "price": 599,
+    "description": "Tableta ligera con pantalla Retina y potente chip A14 Bionic para un rendimiento excepcional."
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "category": "Audio",
+    "stock": 3,
+    "price": 299,
+    "description": "Auriculares inalámbricos con cancelación de ruido líder en la industria y sonido equilibrado."
+  },
+  {
+    "name": "Nintendo Switch",
+    "category": "Videojuegos",
+    "stock": 14,
+    "price": 299,
+    "description": "Consola híbrida que se puede usar tanto en casa como en movimiento para jugar tus juegos favoritos."
+  },
+  {
+    "name": "Fitbit Charge 4",
+    "category": "Wearables",
+    "stock": 9,
+    "price": 149,
+    "description": "Rastreador de actividad con GPS integrado y monitorización continua del ritmo cardíaco."
+  },
+  {
+    "name": "LG OLED CX Series TV",
+    "category": "Electrónica",
+    "stock": 11,
+    "price": 1999,
+    "description": "Televisor OLED con negros perfectos y colores vibrantes para una experiencia de visualización impresionante."
+  },
+  {
+    "name": "Logitech MX Master 3",
+    "category": "Periféricos",
+    "stock": 2,
+    "price": 99,
+    "description": "Ratón inalámbrico avanzado con seguimiento ultra preciso y rueda de desplazamiento electromagnético."
+  },
+  {
+    "name": "Instant Pot Duo Evo Plus",
+    "category": "Electrodomésticos",
+    "stock": 16,
+    "price": 139,
+    "description": "Olla a presión multifuncional con 10 programas de cocción para cocinar una variedad de platos."
+  },
+  {
+    "name": "Razer BlackWidow Elite",
+    "category": "Periféricos",
+    "stock": 1,
+    "price": 169,
+    "description": "Teclado mecánico para juegos con interruptores Razer y retroiluminación personalizable."
+  },
+  {
+    "name": "Amazon Echo Dot (4th Gen)",
+    "category": "Electrónica",
+    "stock": 13,
+    "price": 49,
+    "description": "Altavoz inteligente con Alexa integrada para reproducir música, controlar dispositivos domésticos y más."
+  },
+  {
+    "name": "Xbox Wireless Controller",
+    "category": "Videojuegos",
+    "stock": 19,
+    "price": 59,
+    "description": "Controlador inalámbrico ergonómico con tecnología Bluetooth para jugar en PC y consolas Xbox."
+  },
+  {
+    "name": "Fujifilm Instax Mini 11",
+    "category": "Cámaras",
+    "stock": 17,
+    "price": 69,
+    "description": "Cámara instantánea compacta con ajuste automático de exposición para capturar momentos al instante."
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "category": "Wearables",
+    "stock": 20,
+    "price": 399,
+    "description": "Reloj inteligente con pantalla Always-On Retina y seguimiento avanzado de la salud."
+  }
+]
